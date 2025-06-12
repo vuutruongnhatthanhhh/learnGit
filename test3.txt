@@ -1,1 +1,1 @@
-register
+register-ko update
